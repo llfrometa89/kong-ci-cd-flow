@@ -3,4 +3,5 @@ actions-runner/
 node_modules/
 license
 kong-plugin-mocking
+.idea/
 
